@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Spotify Matcher</h1>
+    <h1>Music Matcher</h1>
     <AuthenticatedPrev v-if="tokenIsValid() == true" />
   </header>
   <body>
