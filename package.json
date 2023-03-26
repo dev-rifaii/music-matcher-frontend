@@ -17,8 +17,10 @@
     "express": "^4.18.1",
     "query-string": "^7.1.1",
     "serve-static": "^1.15.0",
+    "sockjs-client": "^1.6.1",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.15"
+    "vue-router": "^4.0.15",
+    "webstomp-client": "^1.2.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
